@@ -1,0 +1,14 @@
+#hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 90vh;
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.5),rgba(0,0,0,0.5) )
+    ,url(../imagenes/hero.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
